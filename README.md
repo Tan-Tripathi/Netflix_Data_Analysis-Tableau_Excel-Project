@@ -16,17 +16,17 @@ A data-driven dashboard was created using Netflix's catalog dataset, encompassin
 
 #### **Key Insights:**
 The analysis revealed key insights that Netflix could leverage to improve its content strategy:
-1. **Geographic Insights**: The **US dominates** the content library, contributing over **3,600 shows**, but international content, especially from countries like India and the UK, is growing in importance.
-2. **Rating Distribution**: **TV-MA** (Mature Audience) has the largest share, indicating that Netflix’s current focus is on adult content, with **3,207 shows**. However, **family-friendly categories** such as **TV-Y and TV-G** are significantly underrepresented.
-3. **Popular Genres**: The top 3 genres were **International Movies, Dramas, and Comedies**, highlighting global appeal and viewer preference for diverse content. **Romantic Movies** and **Children’s Movies** also showed promise, although they make up a smaller portion of the catalog.
-4. **Growth Spike in 2010**: The number of new releases has increased sharply since **2010**, reflecting Netflix's investment in original content and its rapid global expansion.
-5. **Content Duration**: The majority of content has a **50-150 minute** duration, with movies making up a large portion of these, highlighting that full-length feature films remain Netflix's stronghold.
+1. **Geographic Insights**: The **US dominates** the content library, contributing over **3,600 shows**. Other significant contributors include countries like India and the UK.
+2. **Rating Distribution**: **TV-MA** (Mature Audience) has the largest share, indicating that Netflix’s current focus is on adult content, with **3,207 shows**. However, **family-friendly categories** such as **TV-Y, TV-G and PG** are significantly underrepresented.
+3. **Shows distribution:** Movies(6,131) outnumber TV shows(2,676) with 70% being movies and 30% TV shows.
+4. **Popular Genres**: The top 3 genres were **International Movies, Dramas, and Comedies**, highlighting global appeal and viewer preference for diverse content.
+5. **Growth Spike in 2010**: The number of new releases has increased sharply since **2011**, reflecting Netflix's investment in original content and its rapid global expansion.
+6. **Content Duration**: The majority of content has a **70-120 minutes** duration, with movies making up a large portion of these, highlighting that full-length feature films remain Netflix's stronghold.
 
 #### **Recommendations**:
 1. **Expand International Content**: While the US is a major contributor, Netflix can **further localize content** in regions with underrepresented content, such as **Africa** or **Southeast Asia**, to attract new markets.
-2. **Diversify Age-Specific Content**: To broaden its appeal, Netflix should focus on producing more **family-friendly content** for younger audiences and families, helping them compete in the children’s programming space.
-3. **Leverage Documentary and Independent Genres**: These categories have shown growth potential. Investing in **niche and educational content** could attract a diverse viewership looking for specialized or more intellectual material.
-4. **Balanced Content Strategy**: Given the rapid rise in new releases post-2010, Netflix should **continue producing a balanced mix** of genres while paying special attention to global trends and emerging genres to stay ahead of competitors.
+2. **Diversify Age-Specific Content**: To broaden its appeal, Netflix should focus on producing more **family-friendly content** for younger audiences and families, helping them compete in the children’s space.
+3. **Balanced Content Strategy**: Given the rapid rise in new releases post-2010, Netflix should **continue producing a balanced mix** of genres while paying special attention to global trends and emerging genres to stay ahead of competitors.
 
 ---
 
