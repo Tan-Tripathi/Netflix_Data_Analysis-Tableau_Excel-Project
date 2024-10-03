@@ -31,3 +31,7 @@ The analysis revealed key insights that Netflix could leverage to improve its co
 ---
 
 This analysis highlights how the dashboard can help Netflix identify trends, optimize its content offerings, and expand into new regions and demographics, all while maintaining viewer satisfaction and a competitive edge in the streaming industry.
+
+---
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanmay-tripathi-2k/)
+
